@@ -10,6 +10,7 @@ const escreveResultado = () => {
             console.log(`Múltiplos de 3: ${i}, VAMO`)
         }
     }
+    
 }
 
 escreveResultado();
