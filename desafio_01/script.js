@@ -13,5 +13,5 @@ const escreveResultado = () => {
     
 }
 
-escreveResultado();
+console.log(escreveResultado());
 
